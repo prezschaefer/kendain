@@ -3,6 +3,13 @@
 Plan to gather and unite the party together on their first quest together in the new campaign.
 
 
+## Location
+
+The introduction will take place in the city of *Orgis*, found in [Cort](countries.md#cort) on
+the island of *Viseroth*. The map of [Orgis](maps/orgis.png) is available for reference. Any
+notes on the city are available for [Orgis](cities/orgis.md) as well.
+
+
 ## Kala Hanali
 
 
@@ -156,13 +163,13 @@ will ask them to return later in the day, about another similar task to search a
 and collect anything that looks important to return back to the Lord. If the meeting is okay, he
 may send out a runner the next day, if the party is still in town, to perform this task. If the
 meeting goes poorly, he will most likely not ask for their services again, asking Kala to handle
-things next time. Use the [safe house quests](quests/safe_house_quests.md) for the next possible quest.
+things next time. Use the [safe house quests](safe_house_quests.md) for the next possible quest.
 
 If the meeting goes poorly, he will not ask for the party's services again, asking Kala to handle
 things next time. If Kala is impressed with the party, he will most likely use the party again,
 if possible. Kala will not ask for help with the remaining safe houses, but instead ask the party
 to help clear out clans of criminals and hostile creatures around the area. Use the
-[local hostiles quests](quests/local_hostile_quests.md).
+[local hostiles quests](local_hostile_quests.md).
 
 Otherwise, if neither are impressed, this is the end of this arc with the Lord and Kala on a quest
 basis. The party may "turn" on either which if caught will cause the party to be expelled, not
@@ -170,7 +177,7 @@ jailed or killed since they acquired the necessary information, unless things go
 
 The party can spend time spending their gold, acquiring more supplies, etc. in town before ending
 the night. If the party stays in town at the tavern, they will be able to find a series of work
-from offers or jobs by other patrens, see the document on [tavern quests](quests/tavern_quests.md).
+from offers or jobs by other patrens, see the document on [tavern quests](tavern_quests.md).
 If they leave town that night, they can choose where to go, rolling random encounters on their
 travels until they arrive at the next town. If they spend a week in the wild, planning to travel to a
-location significantly far away, see the document on [wilderness quests](quests/wilderness_quests.md).
+location significantly far away, see the document on [wilderness quests](wilderness_quests.md).
