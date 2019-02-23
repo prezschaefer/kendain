@@ -10,7 +10,7 @@ A repository of knowledge, resources, and other information on the world of Kend
 
 ## Kendain Map
 
-A map of the Kendain continent can be loaded using the [Azgaar Fantasy Map Generator](https://azgaar.github.io/Fantasy-Map-Generator/). You can load the [Kendain Map](https://github.com/prezschaefer/kendain/master/kendain.map) into the tool to view it.
+A map of the Kendain continent can be loaded using the [Azgaar Fantasy Map Generator](https://azgaar.github.io/Fantasy-Map-Generator/). You can load the [Kendain Map](https://github.com/prezschaefer/kendain/master/Kendain.map) into the tool to view it.
 
 Kendain is a continent made up of 4 major islands and 16 countries. Most islands have a long history of conflict between the countries, some more recent than others.
 
