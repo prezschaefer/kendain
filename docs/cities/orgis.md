@@ -1,6 +1,7 @@
 # Orgis
 
-A city in [Cort](countries.md#cort) on the island of *Viseroth*.
+A city in [Cort](../countries.md#cort) on the island of *Viseroth*.
+[Map](../maps/orgis.png) available.
 
 
 ## Points of Interest
@@ -35,17 +36,17 @@ main entrance gate
 
 ### Lord Benedare
 
-Part of [campaign introduction](quests/campaign_intro.md#lord-benedare)
+Part of [campaign introduction](../quests/campaign_intro.md#lord-benedare)
 
 
 ### Kala Hanali
 
-Part of [campaign introduction](quests/campaign_intro.md#kala-hanali)
+Part of [campaign introduction](../quests/campaign_intro.md#kala-hanali)
 
 
 ### Nicor Romas
 
-Part of [campaign introduction](quests/campaign_intro.md#nicor-romas)
+Part of [campaign introduction](../quests/campaign_intro.md#nicor-romas)
 
 
 ### Lyle Silvereyes

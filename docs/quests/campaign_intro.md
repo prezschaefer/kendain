@@ -5,9 +5,9 @@ Plan to gather and unite the party together on their first quest together in the
 
 ## Location
 
-The introduction will take place in the city of *Orgis*, found in [Cort](countries.md#cort) on
-the island of *Viseroth*. The map of [Orgis](maps/orgis.png) is available for reference. Any
-notes on the city are available for [Orgis](cities/orgis.md) as well.
+The introduction will take place in the city of *Orgis*, found in [Cort](../countries.md#cort) on
+the island of *Viseroth*. The map of [Orgis](../maps/orgis.png) is available for reference. Any
+notes on the city are available for [Orgis](../cities/orgis.md) as well.
 
 
 ## Kala Hanali
