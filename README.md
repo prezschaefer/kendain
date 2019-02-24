@@ -57,8 +57,8 @@ While the party is travling, every 4-6 hours make an encounter roll.
 
 - Less than 10 results in nothing
 - A 10-16 will result in a [Non-combat Encounter](https://github.com/prezschaefer/kendain/blob/master/docs/non-combat_encounters.md)
-- A 17-20 will result in a Combat Encounter, tables for PC levels and biomes can be found
-in XGtE pp.92.
+- A 17-20 will result in a [Combat Encounter](https://github.com/prezschaefer/kendain/blob/master/docs/encounters/README.md),
+additional tables for PC levels and biomes can be found in XGtE pp.92.
 
 
 ## Cities
