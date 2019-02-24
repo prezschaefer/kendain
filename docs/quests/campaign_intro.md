@@ -66,6 +66,8 @@ and information about these items has become fiction or lost, so now no one trul
 they are about or if they really exist. At least that is the common belief, there are also
 conspiracies that certain clans or pacts know the real truth.
 
+Further details on these artifacts are available, as part of the [artifacts](../artifact.md).
+
 
 ## Lord Benedare
 
