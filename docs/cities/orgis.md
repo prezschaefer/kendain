@@ -17,6 +17,7 @@ main entrance gate
 - **Zooks:** gnome Zook's magical item shop in center of town
 - **Valna's Supplies:** elf Valna's general store goods
 - **Artin's Collection:** dwarf Artin's magic items and arcana supplies
+- **Fransico's Garments:** human Fransico's clothing and tailor
 
 
 ## People
@@ -32,6 +33,7 @@ main entrance gate
 - [Zook](#zook)
 - [Valna Amakiir](#valna-amakiir)
 - [Artin Bigtoe](#artin-bigtoe)
+- [Fransico Porty](#fransico-porty)
 
 
 ### Lord Benedare
@@ -91,3 +93,8 @@ Female elf owner of **Valna's Supplies**
 ### Artin Bigtoe
 
 Female dwarf owner of **Artin's Collection**
+
+
+### Fransico Porty
+
+Male human owner of **Fransico's Garments**
