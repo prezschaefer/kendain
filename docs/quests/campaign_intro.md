@@ -47,7 +47,7 @@ to nefarious activity. As part of typical magistrate work, a series of safe hous
 the town and surrounding area for common uses by the local guards on patrols or quests, or as
 part of undercover operations to catch criminals.
 
-He was asked no long ago to begin investigating a series of tomes and tablets provided by Lord
+He was asked not long ago to begin investigating a series of tomes and tablets provided by Lord
 Benedare. Nicor setup a series of research operations to try to investigate these items further
 and learned they dealt with a series of tombs and possible artifacts long thought to be fiction.
 These items have a lot of different contridicting references and beliefs, so no one knows for
@@ -66,7 +66,7 @@ and information about these items has become fiction or lost, so now no one trul
 they are about or if they really exist. At least that is the common belief, there are also
 conspiracies that certain clans or pacts know the real truth.
 
-Further details on these artifacts are available, as part of the [artifacts](../artifact.md).
+Further details on these artifacts are available, as part of the [artifacts](../artifacts.md).
 
 
 ## Lord Benedare
