@@ -35,8 +35,8 @@ will mention a recent raise in clothing prices as a result of the local tailor
 having issues transporting a shipment of their clothes to the town southeast
 of Orgis, [Aury](../cities/aury.md).
 
-The owner of the tailor, [Fransico Porty](#../cities/orgis.md#fransico-porty),
-had his last set of fine clothing raided on its way to [Aury](#../cities/aury.md)
+The owner of the tailor, [Fransico Porty](../cities/orgis.md#fransico-porty),
+had his last set of fine clothing raided on its way to [Aury](../cities/aury.md)
 and is looking for a group to escort his next shipment, as it costs a significant
 amount of money. He is willing to pay **350 gp** for a successful delivery.
 

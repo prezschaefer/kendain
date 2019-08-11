@@ -171,7 +171,7 @@ If the meeting goes poorly, he will not ask for the party's services again, aski
 things next time. If Kala is impressed with the party, he will most likely use the party again,
 if possible. Kala will not ask for help with the remaining safe houses, but instead ask the party
 to help clear out clans of criminals and hostile creatures around the area. Use the
-[local hostiles quests](local_hostile_quests.md).
+[local hostiles quests](local_hostiles_quests.md).
 
 Otherwise, if neither are impressed, this is the end of this arc with the Lord and Kala on a quest
 basis. The party may "turn" on either which if caught will cause the party to be expelled, not

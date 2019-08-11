@@ -1,7 +1,7 @@
 # Safe House Quests
 
 A series of quests and hook that involve the safe houses setup by
-[Nicor Romas](quests/campaign_intro.md#nicor-romas)
+[Nicor Romas](campaign_intro.md#nicor-romas)
 to investigate the [Mysterious Artifacts](quests/campaign_intro.md#mysterious_artifacts).
 
 These are considered part of the main quest, as they will provide additional
