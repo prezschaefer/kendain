@@ -16,6 +16,7 @@ the party options, gold, items, and favors.
 | [Wolf Harassment](#wolf-harassment) | 50 gp  | ---- |
 | [Bridge Building](#bridge-building) | 20-250+ gp | ---- |
 | [Honey Foraging](#honey-foraging) | 20-200 gp | ---- |
+| [Balhannoth Hunting](#balhannoth-hunting) | 500-2500 gp | ---- |
 
 
 ### Irrigation Digging
@@ -101,3 +102,27 @@ The hives are placed in secure boxes, where the merchants will handle the bees
 safely. If handled carefully, the hives can be boxed without incident. Hives are
 scattered across the forest, so typically they are found in 1-4 sets maximum.
 It will take most of the day to complete this task to completion if desired.
+
+
+### Balhannoth Hunting
+
+A Balhannoth has been seen along the coastline near a city. This large monster
+is extremely deadly. Two parties have already been sent to try to destroy it
+and a majority of each were killed, unable to kill or drive the Balhannoth out.
+The longer the party is aware of the creature and leaves it, the worth it's
+affect on the nearby city, as it warps reality and will lay traps to fool
+people into entering it's cave. It may even be able to create it's own lair if
+enough time passes.
+
+The party is sent by the nearby town's military force, with a large group of
+mercenaries, as too many soliders have been lost now. The number of mercenaries
+depends on the time before the party helps (party levels), as the longer it takes,
+the less money and mercenaries the town can hire. One of the mercenaries is the
+leader, being a little higher level. Initially, the mercenaries are made up of
+"Experts" and a half-orc "East-Wing" as the leader. A majority of their abilities
+are removed, simplifying combat, but the leader might have some left to help.
+
+The town will pay more the longer it takes to respond, but again, the difficulty
+goes up since not as many mercenaries will be hired due to the costs. The party
+will also find a treasure trove when/if they defeat the Balhannoth, dependent on
+their level and how many they must split their winnings/findings with.

@@ -34,6 +34,8 @@ main entrance gate
 - [Valna Amakiir](#valna-amakiir)
 - [Artin Bigtoe](#artin-bigtoe)
 - [Fransico Porty](#fransico-porty)
+- [Aeti](#aeti)
+- [Helena](#helena)
 
 
 ### Lord Benedare
@@ -98,3 +100,24 @@ Female dwarf owner of **Artin's Collection**
 ### Fransico Porty
 
 Male human owner of **Fransico's Garments**
+
+
+### Aeti
+
+Name found worn into a table hidden in a room in the Orgis sewers. The room
+was found after destroying a large number of rat nests nearby. The name appears
+worn in from many documents being signed over and over again.
+
+The party found a 1st level "Cure Wounds", potion of healing, and potion of
+climbing. The remaining items had been cleared out prior.
+
+
+### Helena
+
+A green hag roaming the hills east of Orgis. She looks for arugula style herbs
+and will pay gold for them. She gave the party a smooth black stone, that when
+speaking her name, will allow them to communicate with her. She is able to track
+the party by the stone as well.
+
+She gave the party 180 gp for two slight old (plants spoil quickly after picking)
+and two "potted" plants.
